@@ -19,6 +19,6 @@ recipe:
 
 Of course you must have had Aloo Bonda. And if you are south indian, you must have had Panihaaram or Paddu. I have a Paddu maker at home and I thought, why not try making cute round aloo bondas in the Paddu maker?
 
-![](/uploads/panihaaram-2.jpg){: width="535" height="301"}
+![](/uploads/panihaaram-2.jpg)
 
 Do give this healthier version of Aloo Bonda a try\!
