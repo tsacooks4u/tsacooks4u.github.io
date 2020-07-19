@@ -6,7 +6,7 @@ title: Home
 		<article class="post">
 			{% include post-heading.html post=post %}
 			<div class="recipes">
-			    <a class="recipe" style="background-image: url('{{ post.featured_image }}')">
+			    <a class="recipe" href="{{ site.baseurl }}{{ post.url }}" style="background-image: url('{{ post.featured_image }}')">
 			    </a>
 			</div>
 
