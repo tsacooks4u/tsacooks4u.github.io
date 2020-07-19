@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: TSA cooks for you
 url: "https://tsacooks4u.github.io/"
 baseurl:
 google_analytics_key:
@@ -10,15 +10,14 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
-author:
-  name:
-  email:
+description: Indian vegetarian food blog
+author: 
+  name: Taruni Syamala
+  email: tsacooks@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+  name: 
+  links: 
 
 # -----
 # Build
@@ -75,14 +74,7 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
   - YouTube
-  - RSS
 
 _options:
   author_image:
