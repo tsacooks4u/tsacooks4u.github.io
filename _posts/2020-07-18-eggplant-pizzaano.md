@@ -21,6 +21,6 @@ recipe:
 
 Check out my gluten free eggplant pizzaano recipe. Inspired by Italian pizzas, this is a delicious appetizer.
 
-![](/uploads/eggplant-pizza.jpg){: width="1032" height="581"}
+![](/uploads/eggplant-pizza.jpg)
 
 I made it for my family one rainy evening, and everyone loved it\!
