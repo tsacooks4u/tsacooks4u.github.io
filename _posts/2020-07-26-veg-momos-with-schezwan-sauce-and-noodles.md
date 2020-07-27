@@ -36,7 +36,7 @@ recipe:
     1. Prepare the dough, take the flour, make a firm dough, keep it aside for
     10 min.
 
-    2. Prepare the filling, cut cabbage very thin...
+    2. Prepare the filling, cut cabbage very thin…
 
 
     Schezwan sauce
@@ -46,7 +46,7 @@ recipe:
 
     2. Add the finely chopped ginger and garlic. Sautee it for 2 min.
 
-    3. Now add the green chillies...
+    3. Now add the green chillies…
 
 
     Vegetable noodles
