@@ -9,19 +9,19 @@ recipe:
   prep: 1 hour
   cook: 30 min
   ingredients_markdown: |-
-    Veg momos (for the dough)
+    #### Veg momos (for the dough)
 
     * Wheat flour (maida) - 1 cup
     * Salt - 1 tsp
     * Water - 1/2 cup
 
-    Veg momos (filling)
+    #### Veg momos (filling)
 
     * Cabbage - 1 cup
     * Carrot - 1/2 cup
     * Garlic - 1 clove
 
-    Schezwan sauce
+    #### Schezwan sauce
 
     * Soya sauce
 
